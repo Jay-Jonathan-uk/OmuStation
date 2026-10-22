@@ -31,7 +31,7 @@
       - Cartridge
       - CartridgeCaselessBlackiron
   - type: CartridgeAmmo
-    deleteOnSpawn: true
+    deleteOnSpawn: true # a railgun fires the whole bullet/slug thats up to 65% more bullet/slug per bullet/slug
   - type: Sprite
     noRot: false
     sprite: _Omu/Objects/Weapons/Guns/Ammunition/Casings/blackiron.rsi
